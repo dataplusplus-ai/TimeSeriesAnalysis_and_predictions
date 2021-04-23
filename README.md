@@ -7,3 +7,5 @@ in terms of seasonal patterns, trends, relation to external factors, and the lik
 
 In contrast, time series forecasting uses the information in a time series 
 (perhaps with additional information) to forecast future values of that series
+
+Multivariate_onelag_prediction_st _current_hour_using_LSTM_model demo
